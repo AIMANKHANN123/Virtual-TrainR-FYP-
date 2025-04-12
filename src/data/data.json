@@ -1,0 +1,157 @@
+{
+  "Header": {
+    "title": "Learn By Doing Virtually"
+  },
+  "About": {
+    "paragraph": "Virtual TrainR is a VR-based classroom training system that simulates science- related labs, creating a virtual lab environment for individualized and easy learning. By providing an immersive and interactive virtual environment, Virtual TrainR bridges the gap in educational resources, particularly in rural areas of Pakistan where lab facilities are limited. ",
+    "Why": [
+      "Realistic Lab Simulations:",
+      "Individualized Learning",
+      " Accessible & Scalable",
+      "Offline Access"
+    ],
+    "Why2": [
+      "Easy Access, Low-Cost Solution",
+      "Safe Learning Environment",
+      "Teacher-Friendly Platform",
+      "Immersive & Interactive"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Virtual TrainR",
+      "largeImage": "img/portfolio/04-large.jpeg",
+      "smallImage": "img/portfolio/04-small.jpeg"
+    },
+    {
+      "title": "Virtual TrainR",
+      "largeImage": "img/portfolio/05-large.PNG",
+      "smallImage": "img/portfolio/05-small.PNG"
+    },
+    {
+      "title": "Virtual TrainR",
+      "largeImage": "img/portfolio/03-large.jpeg",
+      "smallImage": "img/portfolio/03-small.jpeg"
+    },
+    {
+      "title": "Virtual TrainR",
+      "largeImage": "img/portfolio/04-large.jpeg",
+      "smallImage": "img/portfolio/04-small.jpeg"
+    },
+    {
+      "title": "Virtual TrainR",
+      "largeImage": "img/portfolio/05-large.PNG",
+      "smallImage": "img/portfolio/05-small.PNG"
+    },
+    {
+      "title": "Virtual TrainR",
+      "largeImage": "img/portfolio/03-large.jpeg",
+      "smallImage": "img/portfolio/03-small.jpeg"
+    },
+    {
+      "title": "Virtual TrainR",
+      "largeImage": "img/portfolio/04-large.jpeg",
+      "smallImage": "img/portfolio/04-small.jpeg"
+    },
+    {
+      "title": "Virtual TrainR",
+      "largeImage": "img/portfolio/05-large.PNG",
+      "smallImage": "img/portfolio/05-small.PNG"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-filter",
+      "name": "Simulation Customization",
+      "text": "Allow educators to tailor virtual science experiments to the curriculum, ensuring alignment with course objectives."
+    },
+    {
+      "icon": "fa fa-comment",
+      "name": "Real-Time Feedback",
+      "text": "Receive instant feedback during simulations and experiments, allowing students to learn from mistakes and make improvements in real-time."
+    },
+    {
+      "icon": "fa fa-gamepad",
+      "name": "Gamified Learning Experiences",
+      "text": "Engage students with gamified learning elements, such as quizzes, badges, and leaderboards, making science education both fun and rewarding."
+    },
+    {
+      "icon": "fa fa-power-off",
+      "name": "Offline Support",
+      "text": "Provide students with offline training materials and resources, enabling them to effectively utilize the Virtual TrainR platform without requiring continuous internet access.."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Integration with Educational Platforms",
+      "text": "Easily integrate Virtual TrainR with other educational management systems and platforms for a seamless and streamlined learning experience."
+    },
+    {
+      "icon": "fa fa-spinner",
+      "name": "Progress Tracking and Analytics",
+      "text": " Monitor your learning journey with detailed analytics that track progress, identify strengths, and highlight areas for improvement."
+    }
+
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-flask",
+      "title": "Virtual lab environment ",
+      "text": "Provides a realistic and engaging VR setting that simulates a classroom or lab environment."
+    },
+    {
+      "icon": "fa fa-users",
+      "title": "AI-Powered virtual tutors",
+      "text": "Integrates AI-based virtual tutors to guide students during independent learning."
+    },
+    {
+      "icon": "fa fa-file-code-o",
+      "title": "VR-based lab quizzes",
+      "text": "Includes quizzes based on the lessons demonstrated through VR simulations to reinforce learning."
+    },
+    {
+      "icon": "fa fa-font",
+      "title": "Urdu Language Support",
+      "text": "Virtual TrainR's  ensures an intuitive and culturally relevant learning experience for students across Pakistan."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ]
+}
